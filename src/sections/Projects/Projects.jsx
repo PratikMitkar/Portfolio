@@ -12,13 +12,13 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={voice_assistant}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/PratikMitkar/artificial-intelligence"
           h3="voice assistant"
           p="python based arduino project"
         />
         <ProjectCard
           src={resume_page}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://pratikmitkar.github.io/Portfolio/"
           h3="Portfolio"
           p="react.js based project"
         />
@@ -30,7 +30,7 @@ function Projects() {
         />
         <ProjectCard
           src={chatbot}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/PratikMitkar/python/tree/main/chat%20bot"
           h3="chatbot"
           p="python project using numpy and tensorflow"
         />
