@@ -1,7 +1,10 @@
 .container {
-  text-align: center;
+  display: flex;
+
   p {
+    text-align: center;
     font-size: 16px;
+    flex-direction: column;
     color: var(--footer-text-color);
   }
 }
